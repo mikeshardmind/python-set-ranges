@@ -1,0 +1,3 @@
+# A little thing for ranges with set ops
+
+More set ops to add, more docs, whatever...
